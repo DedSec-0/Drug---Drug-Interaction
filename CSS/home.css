@@ -1,0 +1,20 @@
+.jumbotron {
+	background-color: #4fc3f7;
+	color: #00796b;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+#medicine-input {
+	background-image: linear-gradient(#87ceeb, white);
+	margin-left: 25%;
+	padding: 20px;
+	width: 50%;
+	display: flex;
+}
+
+#homeDescription {
+	margin-top: 20px;
+}
